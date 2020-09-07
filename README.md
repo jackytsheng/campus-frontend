@@ -48,6 +48,10 @@ Testing & Type Checking:
 - Testing library
 - PropTypes library
 
+Static Code Analysis:
+- ESlint
+- Prettier
+
 Security:
 
 - Jwt
