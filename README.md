@@ -49,7 +49,7 @@ Testing & Type Checking:
 - PropTypes library
 
 Static Code Analysis:
-- ESlint
+- ESLint
 - Prettier
 
 Security:
